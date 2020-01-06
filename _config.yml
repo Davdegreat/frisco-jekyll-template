@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: Frisco Template
-url: "https://brave-submarine.cloudvent.net"
-baseurl:
+title: Survival Labs™
+url: "https://davdegreat.github.io/ios-jekyll/"
+baseurl: https://davdegreat.github.io/ios-jekyll/
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
@@ -16,9 +16,9 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Frisco Template
+  name: Survival Labs™
   links:
-    - https://github.com/CloudCannon/frisco-jekyll-template
+    - https://davdegreat.github.io/ios-jekyll/
 
 # -----
 # Build
